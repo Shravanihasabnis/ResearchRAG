@@ -184,17 +184,5 @@ Interactive docs at `/docs` (Swagger UI)
 
 ---
 
-## 🏆 Hackathon Notes
 
-**Rubric mapping:**
-- UI/UX (15pts) — Responsive React app, dark mode, smooth animations
-- Backend (25pts) — FastAPI + PostgreSQL + RAG pipeline + JWT auth
-- Database (10pts) — Normalized schema, vector store, efficient queries
-- Visualization (10pts) — Chart.js bar + line charts + similarity heatmap
-- Deployment (10pts) — Vercel + Render + CI/CD pipeline
-- Innovation (10pts) — Citation panel, semantic search, streaming
-- Performance (5pts) — Chunked processing, vector indexing, async
-- Security (5pts) — JWT, bcrypt, CORS, validation
-- **AI/ML Bonus (+5)** — Full RAG pipeline with embeddings
 
-**Total potential: 105/100** 🎯
