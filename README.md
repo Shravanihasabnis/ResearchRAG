@@ -1,6 +1,6 @@
 # 🔬 ResearchRAG — AI-Powered Research Paper Analysis
 
-> Upload research papers, ask questions, get cited answers powered by Google Gemini + vector search.
+> Upload research papers, ask questions, get cited answers powered by vector search.
 
 [![Deploy Frontend](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)](https://vercel.com)
 [![Deploy Backend](https://img.shields.io/badge/Backend-Render-blue?logo=render)](https://render.com)
